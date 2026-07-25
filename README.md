@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/191993866?v=4" width="150" style="border-radius:50%" alt="Immu" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF2D55&center=true&vCenter=true&width=500&lines=Hi+I'm+Immu+%F0%9F%91%8B;WhatsApp+Bot+Developer;Automation+Engineer;Creator+of+IMMU-MD" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=XRI-DOUBLE07&label=Profile%20Views&color=FF2D55&style=for-the-badge" alt="views" />
@@ -31,6 +33,7 @@ const immu = {
 - 🚀 Deploying across **Heroku, Koyeb & Pterodactyl** panels
 - 📱 Also building **Android apps** with Kotlin
 - 💬 Ask me about WhatsApp bots, Baileys, or deployment issues
+- 📫 Reach me: **im4d.exe@gmail.com** · Telegram **@XRI007**
 
 ---
 
@@ -40,9 +43,9 @@ const immu = {
 
 [![Website](https://img.shields.io/badge/Website-FF2D55?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://immumdbot.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@immumdbot)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_WHATSAPP_LINK)
-[![Telegram](https://img.shields.io/badge/Telegram-0088FF?style=for-the-badge&logo=Telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaq4PRsD38CJKXzwmb42)
+[![Telegram](https://img.shields.io/badge/Telegram-0088FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/XRI007)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im4d.exe@gmail.com)
 
 </div>
 
@@ -106,6 +109,6 @@ const immu = {
 
 ### 💀 "Automate everything"
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D55&height=120&section=footer" width="100%" />
 
 </div>
