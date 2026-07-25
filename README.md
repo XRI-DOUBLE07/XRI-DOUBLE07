@@ -1,87 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D55,100:8B0000&height=180&section=header&text=IMMU%20⚡&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WhatsApp%20Bot%20Developer&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF2D55&center=true&vCenter=true&width=500&lines=Hi+I'm+Immu+%F0%9F%91%8B;WhatsApp+Bot+Developer;Automation+Engineer;Creator+of+IMMU-MD" alt="Typing SVG" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF2D55&center=true&vCenter=true&width=460&lines=Creator+of+IMMU-MD+%F0%9F%92%80;WhatsApp+Bot+Developer+%7C+3%2B+Years;Building+bots%2C+apps+%26+web+projects;Windows+%2B+Kali+Linux+%F0%9F%90%89)](https://github.com/XRI-DOUBLE07)
-
-<img src="https://komarev.com/ghpvc/?username=XRI-DOUBLE07&label=Profile%20Views&color=ff2d55&style=flat" alt="views"/>
-<img src="https://img.shields.io/github/followers/XRI-DOUBLE07?label=Followers&style=flat&color=ff2d55" alt="followers"/>
-<img src="https://img.shields.io/github/stars/XRI-DOUBLE07?label=Stars&style=flat&color=ff2d55" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=XRI-DOUBLE07&label=Profile%20Views&color=FF2D55&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/XRI-DOUBLE07?label=Followers&style=for-the-badge&color=FF2D55" alt="followers" />
+<img src="https://img.shields.io/github/stars/XRI-DOUBLE07?label=Stars&style=for-the-badge&color=FF2D55" alt="stars" />
 
 </div>
 
-## 💀 About Me
+---
 
-- ⚡ Creator & maintainer of **[IMMU-MD](https://github.com/XRI-DOUBLE07/IMMU-MD)** — WhatsApp Multi-Device Bot
-- 🤖 **3+ years** building & maintaining WhatsApp bots
-- 🌐 Projects: **[immumdbot.com](https://immumdbot.com)** · Abuzar Store · Turkish Dramas Hub
-- 🎬 YouTube: **[@immumdbot](https://youtube.com/@immumdbot)** & SimJoy animations
-- 💻 Daily driver: **Windows + Kali Linux**
-- ☁️ Deploys on **Heroku · Koyeb · Vercel · Pterodactyl**
+## 🤖 About Me
+
+```js
+const immu = {
+  role: "WhatsApp Bot Developer & Automation Engineer",
+  flagship: "IMMU-MD",
+  experience: "3+ years building & maintaining WhatsApp bots",
+  focus: ["Bot Development", "Automation", "Deployment & Hosting"],
+  runtime: ["Node.js", "Baileys", "Kotlin"],
+  hosting: ["Heroku", "Koyeb", "Pterodactyl"],
+  environments: ["Windows", "Kali Linux", "Termux"],
+  motto: "Automate everything 💀"
+};
+```
+
+- 🤖 I build **WhatsApp Multi-Device bots** — IMMU-MD is my main project
+- ⚙️ Deep into **automation**: CI/CD pipelines, deploy scripts, session handling, uptime systems
+- 🌐 Ecosystem: [immumdbot.com](https://immumdbot.com) · [pair site](https://pair.immumdbot.com) · [v2](https://v2.immumdbot.com)
+- 🚀 Deploying across **Heroku, Koyeb & Pterodactyl** panels
+- 📱 Also building **Android apps** with Kotlin
+- 💬 Ask me about WhatsApp bots, Baileys, or deployment issues
+
+---
 
 ## 🔗 Connect
 
-<p>
-<a href="https://immumdbot.com"><img src="https://img.shields.io/badge/Website-immumdbot.com-FF2D55?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://youtube.com/@immumdbot"><img src="https://img.shields.io/badge/YouTube-@immumdbot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://github.com/XRI-DOUBLE07/IMMU-MD"><img src="https://img.shields.io/badge/IMMU--MD-Bot%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-FF2D55?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://immumdbot.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@immumdbot)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_WHATSAPP_LINK)
+[![Telegram](https://img.shields.io/badge/Telegram-0088FF?style=for-the-badge&logo=Telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages & Runtime
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+### Bot Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Bots & Frameworks
-<p>
-<img src="https://img.shields.io/badge/WhatsApp-Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-</p>
+### Automation & Deployment
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Hosting & Tools
-<p>
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pterodactyl-0E4688?style=for-the-badge&logo=pterodactyl&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+### Systems & Tools
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![VS Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XRI-DOUBLE07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRI-DOUBLE07&layout=compact&langs_count=8&theme=radical&hide_border=true" height="165"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=XRI-DOUBLE07&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2D55&icon_color=FF2D55" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XRI-DOUBLE07&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D55" />
 
-<img src="https://streak-stats.demolab.com?user=XRI-DOUBLE07&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=XRI-DOUBLE07&theme=radical&hide_border=true&background=0D1117&ring=FF2D55&fire=FF2D55&currStreakLabel=FF2D55" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XRI-DOUBLE07&hide_border=true&bg_color=0d1117&color=FF2D55&line=FF2D55&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XRI-DOUBLE07&hide_border=true&bg_color=0D1117&color=FF2D55&line=FF2D55&point=FFFFFF&area=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=XRI-DOUBLE07&theme=radical&no-frame=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=XRI-DOUBLE07&theme=radical&no-frame=true&margin-w=10&column=7" />
 
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/XRI-DOUBLE07/XRI-DOUBLE07/output/github-contribution-grid-snake-dark.svg"/>
+
+![Snake animation](https://raw.githubusercontent.com/XRI-DOUBLE07/XRI-DOUBLE07/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF2D55&height=120&section=footer" width="100%"/>
+
+### 💀 "Automate everything"
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 </div>
